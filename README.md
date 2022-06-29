@@ -20,5 +20,5 @@ source setup.sh
 Since also [gita](https://github.com/nosarthur/gita) is installed during setup, this allows one to update all repositories at once like:
 
 ```bash
-gita pull
+python -m gita pull
 ```
